@@ -31,6 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/minanabill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minanabill" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mina_nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mina_nabil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/minasanta77" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt="mina_nabil" height="30" width="40" /></a>
 </p>
 
 - 📫 To contact with me **minasanta77@gmail.com**
